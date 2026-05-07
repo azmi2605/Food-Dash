@@ -40,7 +40,10 @@ FoodDash is a premium, high-performance food delivery mobile application built w
 
 | Splash Screen | Home Screen | Cart / Checkout |
 | :---: | :---: | :---: |
-| ![Splash](https://via.placeholder.com/200x400?text=Splash+Screen) | ![Home](https://via.placeholder.com/200x400?text=Home+Screen) | ![Checkout](https://via.placeholder.com/200x400?text=Checkout+Flow) |
+| ![Splash](<img width="1080" height="2400" alt="Screenshot_20260507_210850" src="https://github.com/user-attachments/assets/799c4ae5-9757-427c-b381-23c63a13b0ef" />
+) | ![Home](<img width="1080" height="2400" alt="Screenshot_20260507_211135" src="https://github.com/user-attachments/assets/7ab3eb1a-2c8d-45de-933b-739be67f9742" />
+) | ![Checkout](<img width="1080" height="2400" alt="Screenshot_20260507_211253" src="https://github.com/user-attachments/assets/5c9c3bc8-95e9-4bd1-b698-4882acfcc900" /><img width="1080" height="2400" alt="Screenshot_20260507_211522" src="https://github.com/user-attachments/assets/bd823822-989b-4d90-b390-87b3deb5c62a" /><img width="1080" height="2400" alt="Screenshot_20260507_211620" src="https://github.com/user-attachments/assets/0cc9a194-7adf-4db7-a078-9358be30de1b" />
+) |
 
 ## 📜 License
 
